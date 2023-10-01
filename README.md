@@ -22,16 +22,3 @@
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
 </div>
 
-###
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/mbd">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-###
